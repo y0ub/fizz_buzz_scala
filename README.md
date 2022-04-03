@@ -1,1 +1,1 @@
-#scalaでfizz buzz
+# scalaでfizz buzz
